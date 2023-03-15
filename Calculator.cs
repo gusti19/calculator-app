@@ -1,5 +1,5 @@
 class calculator
-// Gusti Padaka 22.11.5020 
+// Gusti Padaka 22.11.5020 Informatika 08
 // 15 03 2023
 {
 	static void Main(string[] args)
